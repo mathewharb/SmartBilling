@@ -1,4 +1,4 @@
-SmartBilling is a Multi-purpose billing, inventory management and POS application suitable for afor small to large scale businesses.
+SmartBilling is a Multi-purpose billing, inventory management and POS application suitable for small to large scale businesses.
  It’s a user-friendly Desktop application built using C# Programming Language and Microsoft SQL Server as its Database Management System.
  SmartBilling have all major features related to Products, Sales, Purchases, Categories, Inventory and Stock Adjustment, Customers, 
  Suppliers, Roles, Permissions, Reports, Billing, Human Resource, Session management and User Profiles, Backup creation and much more.
