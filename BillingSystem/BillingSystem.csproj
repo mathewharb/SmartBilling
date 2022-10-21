@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2CCDA3B6-17D8-4B94-86DD-14F66C510445}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BillingSystem</RootNamespace>
+    <AssemblyName>BillingSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CONTROLLER\AppSettingsController.cs" />
+    <Compile Include="CONTROLLER\CategoriesController.cs" />
+    <Compile Include="CONTROLLER\ChangePassController.cs" />
+    <Compile Include="CONTROLLER\DefaultUserController.cs" />
+    <Compile Include="CONTROLLER\EmployeesController.cs" />
+    <Compile Include="CONTROLLER\FinancialYearsController.cs" />
+    <Compile Include="CONTROLLER\LoginController.cs" />
+    <Compile Include="CONTROLLER\ProductsController.cs" />
+    <Compile Include="CONTROLLER\ProfilesController.cs" />
+    <Compile Include="CONTROLLER\StakeholdersController.cs" />
+    <Compile Include="CONTROLLER\TransactionDetailsController.cs" />
+    <Compile Include="CONTROLLER\TransactionsController.cs" />
+    <Compile Include="CONTROLLER\UnitsController.cs" />
+    <Compile Include="CONTROLLER\UsersController.cs" />
+    <Compile Include="CONTROLLER\UserTypesController.cs" />
+    <Compile Include="MODEL\AppSettingModel.cs" />
+    <Compile Include="MODEL\CategoryModel.cs" />
+    <Compile Include="MODEL\ChangePassModel.cs" />
+    <Compile Include="MODEL\DefaultUserModel.cs" />
+    <Compile Include="MODEL\EmployeeModel.cs" />
+    <Compile Include="MODEL\FinancialYearModel.cs" />
+    <Compile Include="MODEL\LoginModel.cs" />
+    <Compile Include="MODEL\ProductModel.cs" />
+    <Compile Include="MODEL\ProfileModel.cs" />
+    <Compile Include="MODEL\StakeholderModel.cs" />
+    <Compile Include="MODEL\TransactionDetailModel.cs" />
+    <Compile Include="MODEL\TransactionModel.cs" />
+    <Compile Include="MODEL\UnitModel.cs" />
+    <Compile Include="MODEL\UserModel.cs" />
+    <Compile Include="MODEL\UserTypeModel.cs" />
+    <Compile Include="MODULES\BackupRestoreModule.cs" />
+    <Compile Include="VIEW\Accounts\frmFinancialYears.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Accounts\frmFinancialYears.Designer.cs">
+      <DependentUpon>frmFinancialYears.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Auth\frmAuthTemplate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Auth\frmAuthTemplate.designer.cs">
+      <DependentUpon>frmAuthTemplate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Auth\frmDefaultUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Auth\frmDefaultUser.designer.cs">
+      <DependentUpon>frmDefaultUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Auth\frmSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Auth\frmSettings.designer.cs">
+      <DependentUpon>frmSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Employees\frmEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Employees\frmEmployees.designer.cs">
+      <DependentUpon>frmEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VIEW\frmAdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\frmAdminDashboard.designer.cs">
+      <DependentUpon>frmAdminDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\frmBackuprestore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\frmBackuprestore.Designer.cs">
+      <DependentUpon>frmBackuprestore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\FrontendSetup\frmAppSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\FrontendSetup\frmAppSettings.Designer.cs">
+      <DependentUpon>frmAppSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Help\frmSupport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Help\frmSupport.Designer.cs">
+      <DependentUpon>frmSupport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Products\frmCategories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Products\frmCategories.Designer.cs">
+      <DependentUpon>frmCategories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Reports\frmInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Reports\frmInventory.Designer.cs">
+      <DependentUpon>frmInventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Reports\frmProfitLoss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Reports\frmProfitLoss.Designer.cs">
+      <DependentUpon>frmProfitLoss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Transactions\frmPurchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Transactions\frmPurchase.Designer.cs">
+      <DependentUpon>frmPurchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Transactions\frmSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Transactions\frmSales.Designer.cs">
+      <DependentUpon>frmSales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Products\frmProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Products\frmProducts.Designer.cs">
+      <DependentUpon>frmProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Transactions\frmStakeholders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Transactions\frmStakeholders.Designer.cs">
+      <DependentUpon>frmStakeholders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\frmTransactionMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\frmTransactionMenu.Designer.cs">
+      <DependentUpon>frmTransactionMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Reports\frmTransactionsReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Reports\frmTransactionsReport.Designer.cs">
+      <DependentUpon>frmTransactionsReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Products\frmUnits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Products\frmUnits.Designer.cs">
+      <DependentUpon>frmUnits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\frmUserDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\frmUserDashboard.Designer.cs">
+      <DependentUpon>frmUserDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\splashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\splashScreen.Designer.cs">
+      <DependentUpon>splashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Users\frmAddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Users\frmAddUser.designer.cs">
+      <DependentUpon>frmAddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Users\frmAllUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Users\frmAllUsers.Designer.cs">
+      <DependentUpon>frmAllUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Users\frmChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Users\frmChangePassword.designer.cs">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Users\frmUserProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Users\frmUserProfile.designer.cs">
+      <DependentUpon>frmUserProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\Users\frmUserTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\Users\frmUserTypes.designer.cs">
+      <DependentUpon>frmUserTypes.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="VIEW\Accounts\frmFinancialYears.resx">
+      <DependentUpon>frmFinancialYears.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Auth\frmAuthTemplate.resx">
+      <DependentUpon>frmAuthTemplate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Auth\frmDefaultUser.resx">
+      <DependentUpon>frmDefaultUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Auth\frmSettings.resx">
+      <DependentUpon>frmSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Employees\frmEmployees.resx">
+      <DependentUpon>frmEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="VIEW\frmAdminDashboard.resx">
+      <DependentUpon>frmAdminDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\frmBackuprestore.resx">
+      <DependentUpon>frmBackuprestore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\FrontendSetup\frmAppSettings.resx">
+      <DependentUpon>frmAppSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Help\frmSupport.resx">
+      <DependentUpon>frmSupport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Products\frmCategories.resx">
+      <DependentUpon>frmCategories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Reports\frmInventory.resx">
+      <DependentUpon>frmInventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Reports\frmProfitLoss.resx">
+      <DependentUpon>frmProfitLoss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Transactions\frmPurchase.resx">
+      <DependentUpon>frmPurchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Transactions\frmSales.resx">
+      <DependentUpon>frmSales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Products\frmProducts.resx">
+      <DependentUpon>frmProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Transactions\frmStakeholders.resx">
+      <DependentUpon>frmStakeholders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\frmTransactionMenu.resx">
+      <DependentUpon>frmTransactionMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Reports\frmTransactionsReport.resx">
+      <DependentUpon>frmTransactionsReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Products\frmUnits.resx">
+      <DependentUpon>frmUnits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\frmUserDashboard.resx">
+      <DependentUpon>frmUserDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\splashScreen.resx">
+      <DependentUpon>splashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Users\frmAddUser.resx">
+      <DependentUpon>frmAddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Users\frmAllUsers.resx">
+      <DependentUpon>frmAllUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Users\frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Users\frmUserProfile.resx">
+      <DependentUpon>frmUserProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\Users\frmUserTypes.resx">
+      <DependentUpon>frmUserTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closingsession_shutdown_1263.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\defualt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1345129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6141709.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4551637.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1345124.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2737623.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO-smart-billing-SYSTEM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1345166.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3309674.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5655918.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1345136.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG-Image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1345172.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5675195.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cross Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add-New.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-01-WF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reload-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Check-01-sm-notFound.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emblemdownloads_103735%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20.04.08.17.38-1586356687.4243-27621647.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_icon-icons.com_76793.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alex12-ME-JPG.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

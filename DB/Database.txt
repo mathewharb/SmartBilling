@@ -1,0 +1,157 @@
+create table employees
+(
+EmployeeID int not null identity primary key,
+Fullname varchar(200) not null unique,
+Designation varchar(100) not null,
+Contact varchar(50) not null,
+Email varchar(50) not null unique,
+Image varchar(MAX),
+Address varchar(200) not null,
+TIN varchar(50),
+SSCN varchar(50),
+Description text,
+MonthlySalary decimal(18,2),
+Created_By varchar(50),
+Created_Date datetime,
+Updated_By varchar(50),
+Updated_Date datetime
+)
+
+create table userTypes
+(
+UserTypeID int not null identity primary key,
+UserType varchar(50) not null unique
+)
+
+SET IDENTITY_INSERT [dbo].[userTypes] ON
+INSERT [dbo].[userTypes] ([UserTypeID], [UserType]) VALUES (1, N'Admin')
+INSERT [dbo].[userTypes] ([UserTypeID], [UserType]) VALUES (2, N'User')  
+SET IDENTITY_INSERT [dbo].[userTypes] OFF
+
+create table users
+(
+UserID int not null identity primary key,
+UserType varchar(50) not null,
+Employee_ID int foreign key references employees(EmployeeID) on update no action on delete no action,
+FullName varchar(100) unique,
+Contact varchar(50),
+Email varchar(100) unique,
+UserName varchar(50) not null unique,
+Password varchar(50) not null,
+Role varchar(50),
+IsActive bit not null
+)
+
+create table appsettings
+(
+AppSettingsID int not null primary key DEFAULT ((1)),
+ApplicationName varchar(200),
+BackgroundImage varchar(MAX),
+Logo varchar(MAX),
+FooterTitle varchar(100),
+FooterText varchar(200),
+Printer varchar(255),
+UnitWidth int,
+UnitHeight int,
+FontSize int
+)
+
+INSERT [dbo].[appsettings] ([AppSettingsID], [ApplicationName], [BackgroundImage], [Logo], [FooterTitle], [FooterText]) VALUES (1, N'Smart Billing management System', N'', N'', N'Developed By:', N'Mathew Harb')
+
+create table financialyears
+(
+FinancialYearID int not null identity primary key,
+Year int not null unique
+)
+
+create table categories
+(
+id int not null identity primary key,
+name varchar(150) not null unique,
+description text,
+created_by varchar(50),
+created_date datetime
+)
+
+SET IDENTITY_INSERT [dbo].[categories] ON
+INSERT [dbo].[categories] ([id], [name]) VALUES (1, N'Category1')
+INSERT [dbo].[categories] ([id], [name]) VALUES (2, N'Category2')  
+SET IDENTITY_INSERT [dbo].[categories] OFF  
+
+create table units
+(
+id int not null identity primary key,
+name varchar(50) not null unique,
+description text,
+created_by varchar(50),
+created_date datetime
+)
+
+create table products
+(
+id int not null identity primary key,
+category_id int,
+unit_id int,
+name varchar(200) not null unique,
+category varchar(150),
+description text,
+unit varchar(50),
+quantity decimal(18,2),
+price decimal(18,2),
+created_by varchar(50),
+created_date datetime,
+updated_by varchar(50),
+updated_date datetime
+)
+
+create table stakeholders
+(
+id int not null identity primary key,
+type varchar(50),
+name varchar(200) not null unique,
+email varchar(150),
+tel varchar(50),
+address text,
+created_by varchar(50),
+created_date datetime
+)
+
+create table transactions
+(
+id int not null identity primary key,
+stakeholder_id int,
+stakeholder_name varchar(200),
+type varchar(50),
+transaction_date varchar(300),
+total decimal(18,2),
+tax decimal(18,2),
+discount decimal(18,2),
+created_by varchar(50),
+transaction_month varchar(100),
+transaction_year varchar(100),
+receipt_number varchar(300),
+paid_amount decimal(18,2),
+return_amount decimal(18,2)
+)
+
+create table transaction_details
+(
+id int not null identity primary key,
+product_id int,
+quantity decimal(18,2),
+unit varchar(50),
+price decimal(18,2),
+total decimal(18,2),
+stakeholder_id int,
+created_by varchar(50),
+created_date datetime
+)
+
+
+
+
+
+
+
+
+

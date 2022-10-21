@@ -1,0 +1,141 @@
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.Auth.frmAuthTemplate.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.Auth.frmDefaultUser.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\SmartRestaurantManagementSystem.Views.Auth.frmSettings.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\NGOManagementSystem.Views.Employees.frmEmployees.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmAdminDashboard.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmBackuprestore.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.FrontendSetup.frmAppSettings.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmCategories.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmInventory.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.Reports.frmProfitLoss.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmPurchase.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmSales.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmLogin.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmProducts.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmStakeholders.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmTransactionMenu.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmTransactionsReport.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmUnits.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmUserDashboard.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.splashScreen.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\NGOManagementSystem.Views.Users.frmAddUser.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\NGOManagementSystem.Views.Users.frmAllUsers.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\NGOManagementSystem.Views.Users.frmChangePassword.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\NGOManagementSystem.Views.Users.frmUserProfile.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\NGOManagementSystem.Views.frmUserTypes.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM - Copy (2)\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.GenerateResource.Cache
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.Auth.frmAuthTemplate.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.Auth.frmDefaultUser.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\SmartRestaurantManagementSystem.Views.Auth.frmSettings.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\NGOManagementSystem.Views.Employees.frmEmployees.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmAdminDashboard.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmBackuprestore.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.FrontendSetup.frmAppSettings.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmCategories.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmInventory.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.Reports.frmProfitLoss.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmPurchase.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmSales.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmLogin.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmProducts.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmStakeholders.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmTransactionMenu.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmTransactionsReport.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmUnits.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.frmUserDashboard.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.splashScreen.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\NGOManagementSystem.Views.Users.frmAddUser.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\NGOManagementSystem.Views.Users.frmAllUsers.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\NGOManagementSystem.Views.Users.frmChangePassword.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\NGOManagementSystem.Views.Users.frmUserProfile.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\NGOManagementSystem.Views.frmUserTypes.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.GenerateResource.Cache
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.Accounts.frmFinancialYears.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM\BillingSystem\BillingSystem\obj\Debug\BillingSystem.VIEW.Help.frmSupport.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.Accounts.frmFinancialYears.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.Auth.frmAuthTemplate.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.Auth.frmDefaultUser.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\SmartRestaurantManagementSystem.Views.Auth.frmSettings.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\NGOManagementSystem.Views.Employees.frmEmployees.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.frmAdminDashboard.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.frmBackuprestore.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.FrontendSetup.frmAppSettings.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.Help.frmSupport.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.frmCategories.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.frmInventory.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.Reports.frmProfitLoss.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.frmPurchase.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.frmSales.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.frmLogin.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.frmProducts.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.frmStakeholders.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.frmTransactionMenu.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.frmTransactionsReport.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.frmUnits.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.frmUserDashboard.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.VIEW.splashScreen.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\NGOManagementSystem.Views.Users.frmAddUser.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\NGOManagementSystem.Views.Users.frmAllUsers.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\NGOManagementSystem.Views.Users.frmChangePassword.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\NGOManagementSystem.Views.Users.frmUserProfile.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\NGOManagementSystem.Views.frmUserTypes.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.csproj.GenerateResource.Cache
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\testProject\testprojects\BillingSystem\obj\Debug\BillingSystem.pdb
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.pdb
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.pdb
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.Accounts.frmFinancialYears.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.Auth.frmAuthTemplate.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.Auth.frmDefaultUser.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\SmartRestaurantManagementSystem.Views.Auth.frmSettings.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\NGOManagementSystem.Views.Employees.frmEmployees.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.frmAdminDashboard.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.frmBackuprestore.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.FrontendSetup.frmAppSettings.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.Help.frmSupport.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.frmCategories.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.frmInventory.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.Reports.frmProfitLoss.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.frmPurchase.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.frmSales.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.frmLogin.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.frmProducts.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.frmStakeholders.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.frmTransactionMenu.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.frmTransactionsReport.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.frmUnits.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.frmUserDashboard.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.VIEW.splashScreen.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\NGOManagementSystem.Views.Users.frmAddUser.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\NGOManagementSystem.Views.Users.frmAllUsers.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\NGOManagementSystem.Views.Users.frmChangePassword.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\NGOManagementSystem.Views.Users.frmUserProfile.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\NGOManagementSystem.Views.frmUserTypes.resources
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\SmartBilling\BillingSystem\obj\Debug\BillingSystem.csproj.GenerateResource.Cache
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\Smart_Billing\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\Smart_Billing\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\Administrator.HEALTH\Desktop\C_PROJECTS\BILLING_SYSTEM\BILLING_MANAGEMENT_SYSTEM_DEPLOYMENT\Smart_Billing\BillingSystem\obj\Debug\BillingSystem.pdb
